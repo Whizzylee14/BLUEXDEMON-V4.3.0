@@ -1,8 +1,8 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 //Input number for pair code
-global.pairingNumber = "234xxxxxxxxx"
+global.pairingNumber = "2349011185484"
 
-global.botNumber = ["234xxxxxxxxx"]
+global.botNumber = ["2349011185484"]
 
 global.anticall = false
 
@@ -10,17 +10,17 @@ global.autoReadChat = false
 
 global.alwaysonline = true
 
-global.autoswview = false
+global.autoswview = true
 
-global.public = true
+global.private = true
 
 global.autoreact = false
 
-global.antidelete = false
+global.antidelete = true
 
 global.autotyping = false
 
-global.autoBio = true
+global.autoBio = false
 
 global.antiSpam = true
 
@@ -38,15 +38,15 @@ global.pairingCode = true
 global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
-global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽🐦‍🔥"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
+global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚃𝚎𝚖𝚙𝚎𝚜𝚝 𝙱𝚕𝚊𝚍𝚎"
+global.ownerName = "𝐓𝐞𝐦𝐩𝐞𝐬𝐭 𝐁𝐥𝐚𝐝𝐞"
 global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
-global.botName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒" 
-global.wm = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
+global.botName = "𝐁𝐥𝐚𝐝𝐞 𝐕𝟒" 
+global.wm = "𝐁𝐥𝐚𝐝𝐞 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
@@ -57,17 +57,17 @@ global.fotoRandom = [
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_w8kkLRBc19chTKUU7FYSld3-XLlEipNqlg&usqp=CAU"]
 global.baileysMd = true
 global.multi = false
-global.prefa = "!"
+global.prefa = "null"
 global.Console = false
 global.autorespon = false
-global.copyright = `BLUE DEMON BOT`
+global.copyright = `BLADE BOT`
 global.baileysVersion = `${themeemoji}Baileys ${version}`
 global.On = "On"
 global.Off ="Off"
 global.autoblockcmd = false
 global.fake1 ="Bot WhatsApp"
-global.packName = `𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍`
-global.authorName = "BLUE DEMON"
+global.packName = `BY`
+global.authorName = "𝔗𝔢𝔪𝔭𝔢𝔰𝔱 𝔅𝔩𝔞𝔡𝔢"
 global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
